@@ -1,0 +1,64 @@
+.box{
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.648);
+    background-color: white;
+    position:absolute;
+    left:30%;
+    bottom:30%;
+    border-radius: 8px;
+    width:500px;
+    height: 170px;
+    
+}
+
+.box h1{
+    position: relative;
+    left:50px;
+    top:20px;
+
+}
+
+.btnn{
+    position: relative;
+    left:300px;
+    top:20px;
+    
+}
+
+.btn1,.btn2{
+    
+    background-color: #800040;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color:white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left:20px;
+}
+
+
+.btn2:hover {
+    background-color: #9c1458;
+}
+
+.btn1:hover {
+    background-color: #9c1458;
+}
+
